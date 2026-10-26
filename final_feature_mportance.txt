@@ -1,0 +1,4 @@
+Final Feature Importance:
+ feature  importance
+     LTV    0.669436
+purpose1    0.330564
